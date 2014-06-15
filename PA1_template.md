@@ -1,4 +1,4 @@
-Samsung Sensor Activivty Data
+Personal Activivty Monitoring Data
 ========================================================
 
 The first step after downloading the data is to load it into R. Here the data is loaded into a variable called activity and the sum of steps per day is calculated and stored in total.steps:
