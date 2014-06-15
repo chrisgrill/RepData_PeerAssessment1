@@ -1,5 +1,6 @@
 ## Introduction
 
+[HTML Preview of Submitted HTML File:](http://htmlpreview.github.io/?https://github.com/chrisgrill/RepData_PeerAssessment1/blob/master/PA1_template.html)
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
 [Fitbit](http://www.fitbit.com), [Nike
